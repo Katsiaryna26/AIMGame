@@ -1,1 +1,1 @@
-https://katsiaryna26.github.io/miniIgra/AIMGame/
+https://katsiaryna26.github.io/AIMGame/
